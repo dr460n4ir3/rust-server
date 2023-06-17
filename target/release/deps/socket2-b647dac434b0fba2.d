@@ -1,0 +1,11 @@
+/Users/dr460n4ir3/Desktop/coding/rust_code/rust-server/target/release/deps/socket2-b647dac434b0fba2.rmeta: /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/dr460n4ir3/Desktop/coding/rust_code/rust-server/target/release/deps/libsocket2-b647dac434b0fba2.rlib: /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/dr460n4ir3/Desktop/coding/rust_code/rust-server/target/release/deps/socket2-b647dac434b0fba2.d: /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs:
+/Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs:
+/Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs:
+/Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs:
+/Users/dr460n4ir3/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs:
